@@ -1,6 +1,6 @@
 # Multi-Tool RAG Agent with Pre-Retrieval for NBA Question Answering
 
-🌐 **Language / 语言切换：[中文](./README.md) | English Version**
+🌐 **Language / 语言切换：[中文](README.md) | English Version**
 
 This is an intelligent NBA question-answering system based on **RAG (Retrieval-Augmented Generation) and a multi-tool Agent architecture**. The system dynamically selects information sources and integrates multi-source data to generate answers.
 

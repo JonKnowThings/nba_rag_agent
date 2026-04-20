@@ -1,6 +1,6 @@
 # Multi-Tool RAG Agent with Pre-Retrieval for NBA Question Answering
 
-🌐 **Language / 语言切换：中文 | [English Version](./README_en.md)**
+🌐 **Language / 语言切换：中文 | [English Version](README_en.md)**
 
 这是一个面向 NBA 问答场景并基于 RAG 与多工具Agent 的智能问答系统，能够根据问题动态选择数据来源并融合多源信息。
 
@@ -155,6 +155,8 @@ LOCAL_EMBEDDING_PATH = "your-embedding-model"
 读取后的文件会被切分为文本块，再写入 Qdrant 中的 `custom_collection`。
 
 如果 `data/` 目录内容较多，首次入库可能会比较慢。这是正常现象。
+
+`data/` 目录包含一个简单的 `nba_knowledge.txt` 文件用于测试。您可以根据需要替换或添加更多文件。
 
 
 ## 🔍 常见问题
