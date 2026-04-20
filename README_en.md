@@ -94,7 +94,8 @@ NBA_RAG_Agent/
 
 1. **Clone the repository**:
    ```bash
-  
+   git clone https://github.com/JonKnowThings/nba_rag_agent.git
+   cd nba_rag_agent
    ```
 
 2. **Install dependencies**:

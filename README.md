@@ -93,7 +93,8 @@ NBA_RAG_Agent/
 
 1. **克隆仓库**:
    ```bash
-  
+   git clone https://github.com/JonKnowThings/nba_rag_agent.git
+   cd nba_rag_agent
    ```
 
 2. **安装依赖项**:
