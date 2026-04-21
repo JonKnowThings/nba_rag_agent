@@ -62,7 +62,7 @@ NBA_RAG_Agent/
 ├── nba_logic.py                 # NBA 工具函数（球员/球队/比赛数据查询）
 ├── session_state.py             # Streamlit 会话状态管理
 ├── app_config.py                # 项目全局配置
-├── data/ # 本地知识库目录（txt / pdf / docx / csv）
+├── data/                        # 本地知识库目录（txt / pdf / docx / csv）
 ```
 
 ## 🧩 环境要求
